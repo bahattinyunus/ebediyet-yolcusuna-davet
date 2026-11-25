@@ -56,4 +56,4 @@ flowchart TD
 
 ---
 
-⬅️ **[Önceki Modül: 06 - Runtime: Günlük Tefekkür](../06-Runtime-Gunluk-Tefekkur/README.md)** | ➡️ **[Kavramsal Sözlüğe Geç](../sozluk/README.md)**
+⬅️ **[Önceki Modül: 06 - Runtime: Günlük Tefekkür](../06-Runtime-Gunluk-Tefekkur/README.md)** | ➡️ **[Sonraki Modül: 08 - Yapay Zekâ Çağında Nur'un İnkişafı](../08-AI-Caginda-Nurun-Inkisafi/README.md)**

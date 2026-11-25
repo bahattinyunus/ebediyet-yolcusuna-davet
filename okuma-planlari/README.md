@@ -23,6 +23,7 @@ Bu rehber iki amaçla hazırlandı:
 | **"Dijital bağımlılıklar, nefsani hevesler ve günah döngüsünden çıkamıyorum."** | [07 - Gençlik Rehberi ve Asrın İmtihanı](./../07-Hayati-ve-Ictimai-Rehberler/01-genclik-rehberi-ve-asrin-imtihani.md) | *Gençlik Rehberi (13. Söz 2. Makam)* |
 | **"Ağır bir hastalık, sağlık kaygısı veya yaşlılık yalnızlığı çekiyorum."** | [07 - Hastalar ve İhtiyarlar Tesellisi](./../07-Hayati-ve-Ictimai-Rehberler/02-hastalar-ve-ihtiyarlar-tesellisi.md) | *2. Lem'a, 25. Lem'a, 26. Lem'a* |
 | **"İnsanların övgüsünü seviyorum, kibir, kıskançlık veya kardeş kırgınlığı yaşıyorum."** | [00 - İhlas Düsturları](./../00-Init-Niyet-ve-Ihlas/01-ihlas-risalesi-dusturlari.md) & [Uhuvvet](./../00-Init-Niyet-ve-Ihlas/02-uhuvvet-ve-tesanud.md) & [03 - Ene](./../03-Enaniyet-ve-Bilisel-Filtreler/01-ene-anahtar-mi-perde-mi.md) | *21. Lem'a, 22. Mektup, 30. Söz* |
+| **"Yapay zekâ, bilinç/ruh farkı ve bu çağda Nur hizmetinin geleceğini merak ediyorum."** | [08 - Dördüncü Merhale Manifestosu](./../08-AI-Caginda-Nurun-Inkisafi/01-dorduncu-merhale-manifestosu.md) & [Nuranî AI Etiği](./../08-AI-Caginda-Nurun-Inkisafi/02-nurani-ai-etik-ve-metodoloji.md) | *20. Söz (2. Makam), 29. Söz, Emirdağ L.* |
 
 ---
 
