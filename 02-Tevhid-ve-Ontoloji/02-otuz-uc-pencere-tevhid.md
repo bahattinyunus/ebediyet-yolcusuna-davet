@@ -62,4 +62,4 @@ Herhangi bir varlığa baktığında zihninde şu **4 Adımlı Okuma Algoritmas�
 
 ---
 
-⬅️ **[Önceki Ders: Tabiat Risalesi Analizi](./01-tabiat-risalesi-analizi.md)** | ➡️ **[Sonraki Modül: 03 - Enaniyet ve Bilişsel Filtreler](../03-Enaniyet-ve-Bilisel-Filtreler/README.md)**
+⬅️ **[Önceki Ders: Tabiat Risalesi Analizi](./01-tabiat-risalesi-analizi.md)** | ➡️ **[Sonraki Ders: İsm-i A'zam ve Kâinat Katmanları](./03-ism-i-azam-ve-kainat-katmanlari.md)**

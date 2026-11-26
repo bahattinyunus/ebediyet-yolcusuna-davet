@@ -51,4 +51,4 @@ Eğer bir yazılımcıysan kodunla, bir araştırmacıysan kaleminle, bir tasar�
 
 ---
 
-⬅️ **[Önceki Ders: Dördüncü Merhale Manifestosu](./01-dorduncu-merhale-manifestosu.md)** | ➡️ **[Ana Sayfaya Dön](../README.md)**
+⬅️ **[Önceki Ders: Dördüncü Merhale Manifestosu](./01-dorduncu-merhale-manifestosu.md)** | ➡️ **[Uygulama Kitine Geç: AI Mütalaa Araçları](../ai-mutalaa-araclari/README.md)**

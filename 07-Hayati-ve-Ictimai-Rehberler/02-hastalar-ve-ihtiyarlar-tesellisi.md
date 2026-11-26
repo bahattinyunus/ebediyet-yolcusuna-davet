@@ -59,4 +59,4 @@ Modern tüketim kültürü yaşlılığı "işlevsizleşme ve kenara itilme" gib
 
 ---
 
-⬅️ **[Önceki Ders: Gençlik Rehberi ve Asrın İmtihanı](./01-genclik-rehberi-ve-asrin-imtihani.md)** | ➡️ **[Sonraki Modül: 08 - Yapay Zekâ Çağında Nur'un İnkişafı](../08-AI-Caginda-Nurun-Inkisafi/README.md)**
+⬅️ **[Önceki Ders: Gençlik Rehberi ve Asrın İmtihanı](./01-genclik-rehberi-ve-asrin-imtihani.md)** | ➡️ **[Sonraki Modül: 08 - Nübüvvet ve İ'câz-ı Kur'an](../08-Nubuvvet-ve-Icaz-i-Kuran/README.md)**

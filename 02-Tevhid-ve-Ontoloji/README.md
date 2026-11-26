@@ -37,6 +37,8 @@ flowchart TD
    *23. Lem'a (Tabiat Risalesi) ışığında sebepler, tesadüf ve tabiat kavramlarının mantıksal otopsisi; Eczahane-i Kübra ve Matbaa analojileri.*
 2. **[Ders 02: Otuz Üç Pencereden Vahdet ve Ehadiyet Mührü](./02-otuz-uc-pencere-tevhid.md)**  
    *22. Söz ve 33. Söz (Pencereler) ışığında Mânâ-yı Harfî okuması, Tevhid-i Hakiki ve kâinat çapındaki yardımlaşma (Teavün) yasası.*
+3. **[Ders 03: İsm-i A'zam'ın Altı Nuru ve Kâinatın Bilimsel Katmanları](./03-ism-i-azam-ve-kainat-katmanlari.md)**  
+   *30. Lem'a ışığında Kuddûs, Adl, Hakem, Ferd, Hayy ve Kayyum isimlerinin termodinamikten astrofiziğe ve moleküler biyolojiye uzanan kozmik tecellileri.*
 
 ---
 

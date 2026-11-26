@@ -23,7 +23,8 @@ Bu rehber iki amaçla hazırlandı:
 | **"Dijital bağımlılıklar, nefsani hevesler ve günah döngüsünden çıkamıyorum."** | [07 - Gençlik Rehberi ve Asrın İmtihanı](./../07-Hayati-ve-Ictimai-Rehberler/01-genclik-rehberi-ve-asrin-imtihani.md) | *Gençlik Rehberi (13. Söz 2. Makam)* |
 | **"Ağır bir hastalık, sağlık kaygısı veya yaşlılık yalnızlığı çekiyorum."** | [07 - Hastalar ve İhtiyarlar Tesellisi](./../07-Hayati-ve-Ictimai-Rehberler/02-hastalar-ve-ihtiyarlar-tesellisi.md) | *2. Lem'a, 25. Lem'a, 26. Lem'a* |
 | **"İnsanların övgüsünü seviyorum, kibir, kıskançlık veya kardeş kırgınlığı yaşıyorum."** | [00 - İhlas Düsturları](./../00-Init-Niyet-ve-Ihlas/01-ihlas-risalesi-dusturlari.md) & [Uhuvvet](./../00-Init-Niyet-ve-Ihlas/02-uhuvvet-ve-tesanud.md) & [03 - Ene](./../03-Enaniyet-ve-Bilisel-Filtreler/01-ene-anahtar-mi-perde-mi.md) | *21. Lem'a, 22. Mektup, 30. Söz* |
-| **"Yapay zekâ, bilinç/ruh farkı ve bu çağda Nur hizmetinin geleceğini merak ediyorum."** | [08 - Dördüncü Merhale Manifestosu](./../08-AI-Caginda-Nurun-Inkisafi/01-dorduncu-merhale-manifestosu.md) & [Nuranî AI Etiği](./../08-AI-Caginda-Nurun-Inkisafi/02-nurani-ai-etik-ve-metodoloji.md) | *20. Söz (2. Makam), 29. Söz, Emirdağ L.* |
+| **"Yaratıcı var ama peygambere ve dine ne gerek var? (Deizm) sorusu aklımı kurcalıyor."** | [08 - Risalet-i Ahmediye Burhanları](./../08-Nubuvvet-ve-Icaz-i-Kuran/01-risalet-i-ahmediye-burhanlari.md) & [İ'câz-ı Kur'an](./../08-Nubuvvet-ve-Icaz-i-Kuran/02-icaz-i-kuran-ve-bilim-ufku.md) | *19. Söz, 19. Mektup, 25. Söz* |
+| **"Yapay zekâ, bilinç/ruh farkı ve bu çağda Nur hizmetinin geleceğini merak ediyorum."** | [09 - Dördüncü Merhale Manifestosu](./../09-AI-Caginda-Nurun-Inkisafi/01-dorduncu-merhale-manifestosu.md) & [AI Mütalaa Araçları](./../ai-mutalaa-araclari/README.md) | *20. Söz (2. Makam), 29. Söz, Emirdağ L.* |
 
 ---
 
@@ -44,7 +45,7 @@ Her gün için: **10 dakika** ilgili depo dersini veya kaynak Risale bölümün�
 * **8. Gün:** [Modül 02 Genel Bakış](../02-Tevhid-ve-Ontoloji/README.md) + [Tabiat Risalesi (1. ve 2. Muhal)](../02-Tevhid-ve-Ontoloji/01-tabiat-risalesi-analizi.md)
 * **9. Gün:** [Tabiat Risalesi (3. Muhal ve Hakikat-i Tevhid)](../02-Tevhid-ve-Ontoloji/01-tabiat-risalesi-analizi.md) + *23. Lem'a (Hatime)*
 * **10. Gün:** [33 Pencereden Vahdet ve Ehadiyet](../02-Tevhid-ve-Ontoloji/02-otuz-uc-pencere-tevhid.md) + *22. Söz (Birinci Makam)*
-* **11. Gün:** *33. Söz'den seçme 10 Pencere* + Doğa yürüyüşünde Mânâ-yı Harfî egzersizi
+* **11. Gün:** [İsm-i A'zam'ın Altı Nuru ve Bilimsel Katmanlar](../02-Tevhid-ve-Ontoloji/03-ism-i-azam-ve-kainat-katmanlari.md) (*30. Lem'a*) + Doğa yürüyüşünde Mânâ-yı Harfî egzersizi
 * **12. Gün:** [Modül 03 Genel Bakış](../03-Enaniyet-ve-Bilisel-Filtreler/README.md) + [Ene: Anahtar mı, Perde mi?](../03-Enaniyet-ve-Bilisel-Filtreler/01-ene-anahtar-mi-perde-mi.md)
 * **13. Gün:** *30. Söz (Birinci Maksat — Ene Bahsi)* metin okuması
 * **14. Gün:** [Zerre ve Esmâ Tecellileri](../03-Enaniyet-ve-Bilisel-Filtreler/02-zerre-ve-esma-tecellileri.md) + *24. Mektup (Birinci Makam)*
@@ -65,9 +66,9 @@ Her gün için: **10 dakika** ilgili depo dersini veya kaynak Risale bölümün�
 * **25. Gün:** *7. Şua (Âyetü'l-Kübra — Birinci Bab'dan seçme mertebeler)*
 * **26. Gün:** [Modül 07 Genel Bakış](../07-Hayati-ve-Ictimai-Rehberler/README.md) + [Gençlik Rehberi](../07-Hayati-ve-Ictimai-Rehberler/01-genclik-rehberi-ve-asrin-imtihani.md)
 * **27. Gün:** *13. Söz (İkinci Makam)* metin okuması ve dijital arınma planı
-* **28. Gün:** [Hastalar ve İhtiyarlar Tesellisi](../07-Hayati-ve-Ictimai-Rehberler/02-hastalar-ve-ihtiyarlar-tesellisi.md) + *2. Lem'a*
-* **29. Gün:** *25. Lem'a (Hastalar Risalesi'nden 10 Deva)*
-* **30. Gün:** Genel Muhasebe, Şükür Duası ve Bir Kardeşine Hakikati Paylaşma / Katkı Adımı!
+* **28. Gün:** [Hastalar ve İhtiyarlar Tesellisi](../07-Hayati-ve-Ictimai-Rehberler/02-hastalar-ve-ihtiyarlar-tesellisi.md) + *25. Lem'a (Hastalar Risalesi)*
+* **29. Gün:** [Risalet-i Ahmediye ve İ'câz-ı Kur'an](../08-Nubuvvet-ve-Icaz-i-Kuran/README.md) (*19. ve 25. Sözler*)
+* **30. Gün:** [AI Çağında Nur'un 4. Merhalesi](../09-AI-Caginda-Nurun-Inkisafi/README.md) + Genel Muhasebe ve Bir Kardeşine Hakikati Paylaşma Adımı!
 
 ---
 

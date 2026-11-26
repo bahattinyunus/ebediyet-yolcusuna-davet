@@ -1,4 +1,4 @@
-# 🤖 Modül 08: Yapay Zekâ Çağında Risale-i Nur'un İnkişafı (Dördüncü Merhale)
+# 🤖 Modül 09: Yapay Zekâ Çağında Risale-i Nur'un İnkişafı (Dördüncü Merhale)
 
 > *"Küre-i havaiyenin her bir zerresini birer Kelime-i Tevhid ve hikmet kutusu yapan bu radyo nimetinin küllî şükrü; onu Kur'an'ın hakikatlerine ve iman hizmetine musahhar kılmaktır."*  
 > **— Emirdağ Lahikası (Radyo ve Teknoloji Bahsi Özeti)**
@@ -32,6 +32,8 @@ flowchart LR
    *Dil ve ıstılah bariyerinin metni bozmadan aşılması, Külliyat'ın 6.000 sayfalık holografik kavram ağının (`Knowledge Graph`) konuşturulması, AI çağının "Bilinç ve Ruh" krizine 29. ve 30. Söz'ün cevabı.*
 2. **[Ders 02: Nuranî Yapay Zekâ Etiği ve Yedi Metodolojik Kırmızı Çizgi](./02-nurani-ai-etik-ve-metodoloji.md)**  
    *Ana vizyonu bozmamak için sarsılmaz ölçüler: "Hâl" ile "Kal" ayrımı, metin asliyetinin korunması, halüsinasyon güvenliği, canlı uhuvvet halkalarının vazgeçilmezliği ve açık kaynak sadaka-i cariye projeleri.*
+3. **[Uygulama Kiti: Hazır Sistem Promptları ve Dijital Proje Mimarileri (`ai-mutalaa-araclari/`)](../ai-mutalaa-araclari/README.md)**  
+   *Kopyala-yapıştır 6 özel mütalaa modu ve `risale-mcp` dahil açık kaynak proje yol haritası.*
 
 ---
 
@@ -42,4 +44,4 @@ flowchart LR
 
 ---
 
-⬅️ **[Önceki Modül: 07 - Hayati ve İçtimai Rehberler](../07-Hayati-ve-Ictimai-Rehberler/README.md)** | ➡️ **[Ders 01: Dördüncü Merhale Manifestosu](./01-dorduncu-merhale-manifestosu.md)**
+⬅️ **[Önceki Modül: 08 - Nübüvvet ve İ'câz-ı Kur'an](../08-Nubuvvet-ve-Icaz-i-Kuran/README.md)** | ➡️ **[Uygulama Kitine Geç: AI Mütalaa Araçları](../ai-mutalaa-araclari/README.md)**
